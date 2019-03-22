@@ -1,2 +1,2 @@
-FROM haugene/docker-transmission-openvpn
+FROM haugene/transmission-openvpn
 ADD purevpn/ /etc/openvpn/purevpn/
